@@ -23,7 +23,7 @@ Cancelación:
 
 
 ## Pasos a considerar antes de Timbrar CFDI
-Para poder timbrar el CFDI, hay que considerado los siguientes pasos:
+Para poder timbrar el CFDI, hay que considerar los siguientes pasos:
 
 **<b>Paso 1</b>**
    
