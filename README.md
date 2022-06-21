@@ -4,7 +4,7 @@ Documentación para la integración del Anexo 20 versión 4.0 (CFDI).
 
 Aviso:
 
-El 1 de enero de 2022 entra en vigor la versión 4.0 de la factura, no obstante podrás continuar emitiendo facturas en la versión 3.3 hasta el 30 de junio; a partir del 1 de julio, la única versión válida para emitir las facturas será la versión 4.0
+El 1 de enero de 2022 entra en vigor la versión 4.0 de la factura, no obstante podrás continuar emitiendo facturas en la versión 3.3 hasta el 31 de diciembre de 2022; a partir del 1 de enero de 2023, la única versión válida para emitir las facturas será la versión 4.0.
 
 [Documentación del SAT para emitir CFDI con la nueva versión 4.0](http://omawww.sat.gob.mx/tramitesyservicios/Paginas/anexo_20_version3-3.htm)
 
